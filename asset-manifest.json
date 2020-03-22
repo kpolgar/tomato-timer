@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tomato-timer/static/css/main.81b3d2e4.chunk.css",
+    "main.js": "/tomato-timer/static/js/main.27b39699.chunk.js",
+    "main.js.map": "/tomato-timer/static/js/main.27b39699.chunk.js.map",
+    "runtime-main.js": "/tomato-timer/static/js/runtime-main.0acbe4fb.js",
+    "runtime-main.js.map": "/tomato-timer/static/js/runtime-main.0acbe4fb.js.map",
+    "static/js/2.5c012e78.chunk.js": "/tomato-timer/static/js/2.5c012e78.chunk.js",
+    "static/js/2.5c012e78.chunk.js.map": "/tomato-timer/static/js/2.5c012e78.chunk.js.map",
+    "index.html": "/tomato-timer/index.html",
+    "precache-manifest.6641a56234929f06c41abd910eb2b6f7.js": "/tomato-timer/precache-manifest.6641a56234929f06c41abd910eb2b6f7.js",
+    "service-worker.js": "/tomato-timer/service-worker.js",
+    "static/css/main.81b3d2e4.chunk.css.map": "/tomato-timer/static/css/main.81b3d2e4.chunk.css.map",
+    "static/js/2.5c012e78.chunk.js.LICENSE.txt": "/tomato-timer/static/js/2.5c012e78.chunk.js.LICENSE.txt",
+    "static/media/BeepSound.wav": "/tomato-timer/static/media/BeepSound.988833bf.wav",
+    "static/media/logo.png": "/tomato-timer/static/media/logo.d2da1e9c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0acbe4fb.js",
+    "static/js/2.5c012e78.chunk.js",
+    "static/css/main.81b3d2e4.chunk.css",
+    "static/js/main.27b39699.chunk.js"
+  ]
+}
