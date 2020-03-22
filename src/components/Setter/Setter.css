@@ -1,0 +1,60 @@
+.setter_div {
+    text-align: center;
+}
+
+.set_length {
+    vertical-align: top;
+    width: 190px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 10px;
+    border: 5px solid #8c150e;
+    height: 62px;
+    line-height: 20px;
+    display: inline-block;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+.set_length img {
+    width: 35px;
+    position: relative;
+}
+
+.set_length p {
+    font-size: 25px;
+    padding-bottom: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.number {
+    padding-top: 5px;
+    font-size: 40px;
+    width: 50px;
+}
+
+.set {
+    display: inline-block;
+}
+
+#down {
+    width: 35px;
+    height: 35px;
+    background-image: url('../../assets/down.png');
+    background-size: cover;
+    border: none;
+    background-color: white;
+    outline: none;
+}
+
+#up {
+    width: 35px;
+    height: 35px;
+    background-image: url('../../assets/up.png');
+    background-size: cover;
+    border: none;
+    background-color: white;
+    outline: none;
+}
+

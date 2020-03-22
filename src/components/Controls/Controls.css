@@ -1,0 +1,26 @@
+.control_div img {
+    width: 25px;
+    padding: 5px;
+  }
+
+  .control_buttons {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    background-size: cover;
+    border: none;
+    background-color: white;
+    outline: none;
+}
+
+#play {
+  background-image: url('../../assets/play.png');
+}
+
+#pause {
+  background-image: url('../../assets/pause.png');
+}
+
+#reset {
+  background-image: url('../../assets/reset.png');
+}
